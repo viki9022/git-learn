@@ -1,1 +1,1 @@
-git commands pratice file 1 
+git commands pratice file 1 and this is second commit 
